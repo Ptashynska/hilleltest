@@ -1,8 +1,6 @@
 Sample GitLab Project
 
-Students:
-- Taran Oleksii
-= Mathiukhov Oleg
+
 
 This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
 named and filled with lorem ipsum.
