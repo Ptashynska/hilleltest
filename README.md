@@ -1,12 +1,12 @@
 Sample GitLab Project
 
 Students:
-- Other
-- Other name
-- Second name
--  Ira;
--  Third name
-- Ira
+- First
+- Second
+- Third
+-  Fourth
+
+
 This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
 named and filled with lorem ipsum.
 You can look around to get an idea how to structure your project and, when done, you can safely delete this project.
